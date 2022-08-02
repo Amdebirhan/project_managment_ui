@@ -13,7 +13,7 @@ class ImageAnimationPath {
 }
 
 class ImageRasterPath {
-  static const _folderPath = "assets/images/raster";
+  static const _folderPath = "../../assets/images/raster";
   static const avatar1 = "$_folderPath/avatar-1.png";
   static const avatar2 = "$_folderPath/avatar-2.png";
   static const avatar3 = "$_folderPath/avatar-3.png";
@@ -29,7 +29,7 @@ class ImageRasterPath {
 }
 
 class ImageVectorPath {
-  static const _folderPath = "assets/images/vector";
+  static const _folderPath = "../../assets/images/vector";
   static const happy = "$_folderPath/happy.svg";
   static const happy2 = "$_folderPath/happy-2.svg";
   static const wavyBus = "$_folderPath/wavy-bus.svg";
